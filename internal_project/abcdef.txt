@@ -1,0 +1,6 @@
+username is:abcdef
+password is:abcdef
+number of tickets:3
+cost of tickets is:10531.5
+ ********************************************* 
+ THANKYOU

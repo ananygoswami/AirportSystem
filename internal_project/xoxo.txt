@@ -1,0 +1,6 @@
+username is:xoxo
+password is:xoxo
+number of tickets:2
+cost of tickets is:8260.0
+ ********************************************* 
+ THANKYOU

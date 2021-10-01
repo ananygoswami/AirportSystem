@@ -1,0 +1,6 @@
+username is:ananya
+password is:ananya
+number of tickets:2
+cost of tickets is:8260.0
+ ********************************************* 
+ THANKYOU
