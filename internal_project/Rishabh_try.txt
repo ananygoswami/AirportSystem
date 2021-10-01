@@ -1,0 +1,6 @@
+username is:Rishabh_try
+password is:123456
+number of tickets:2
+cost of tickets is:8260.0
+ ********************************************* 
+ THANKYOU
